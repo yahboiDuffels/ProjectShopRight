@@ -1,0 +1,7 @@
+Modules
+-Login
+loginNo(managerId,managerCode)
+-employee
+employeeInformation(firstName,lastName,idNumber,employeeId,residence,permannet,contract,position,rate)
+
+-stock
